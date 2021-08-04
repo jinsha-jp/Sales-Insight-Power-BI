@@ -32,5 +32,5 @@ Tools used:
 
 Skills needed to complete the job:
 
-1- Data Cleansing 2- Analytical Skills 4- SQL Query Language 5- Business Intelligence Knowledge
+1- Data Cleansing 2- Analytical Skills 3- SQL Query Language 4- Business Intelligence Knowledge
 
